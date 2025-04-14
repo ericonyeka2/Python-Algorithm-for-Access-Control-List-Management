@@ -1,4 +1,4 @@
-# Python-Algorithm-for-Access-Control-List-Management
+# Python Algorithm for Access Control List Management
   
 ## Objective
 To automate the management of access control by developing a Python algorithm that updates an allow list of IP addresses by removing those found on a separate remove list. This project ensures restricted access to sensitive healthcare systems remains compliant and secure.
